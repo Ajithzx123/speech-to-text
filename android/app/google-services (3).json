@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "995752445494",
+    "project_id": "welkin-7e4de",
+    "storage_bucket": "welkin-7e4de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:995752445494:android:c2a03eb7857419434eba97",
+        "android_client_info": {
+          "package_name": "com.example.welkin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "995752445494-a99fpnrsg2ooj06d5mu8j9tnds637j9f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.welkin",
+            "certificate_hash": "b20ec952761f3f6c1fe63d193fbc21aa725e46a1"
+          }
+        },
+        {
+          "client_id": "995752445494-to82d154pqqnrbk2na8hhnh813s85lbs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhw4yMXQKvltw05hJN0__6hOGlcnWqkLc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "995752445494-to82d154pqqnrbk2na8hhnh813s85lbs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
